@@ -54,6 +54,7 @@ Uma das premissas é de priorizar conteúdo em lingua portuguesa, mas isso pode 
 Em ordem alfabética
 
 | Nome | Twitter | LinkedIn | Youtube | Outro |
+| ------- | --------  | ---------- | ---------- | ------- |
 | Camila "Punk do Devops" Martins | [https://twitter.com/punkdodevops] | LinkedIn | [https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA] | Outro |
 | Carlos Panato | [https://twitter.com/comedordexis] | LinkedIn | Youtube | Outro |
 | Daniel Requena | [https://twitter.com/Daniel_Requena] | LinkedIn | Youtube | Outro |
